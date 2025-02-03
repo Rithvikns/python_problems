@@ -1,0 +1,1 @@
+One of the most common question asked in the assesment test are water storage problem in between buildings. To solve this problem I use a two pointer method, This same approach can be used to solve problems such as snow capped mountains and trapping lava problem
